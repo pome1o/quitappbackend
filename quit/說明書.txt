@@ -1,0 +1,11 @@
+add.php 新增帳號
+
+addfriend.php 新增好友
+
+fcm_token.php 將GOOGLE token 存到資料庫
+
+login.php 判斷登入
+
+upload.php 上傳檔案
+
+ismoke.php 我抽菸了 發送給所有好友
